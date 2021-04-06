@@ -1,7 +1,7 @@
 1).  Set up terminal
 2).  Set up msfconsole (with sudo permission)
 
-┌──(Vurro㉿kali)-[~]
+┌──(root㉿kali)-[~]
 └─$ sudo msfconsole
 
 
